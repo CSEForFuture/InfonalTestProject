@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/test-classes/infonalTestProjectPackage/FacebookTestClass.class
+target/test-classes/infonalTestProjectPackage/InfonalTestProjectClass.class
+target/test-classes/infonalTestProjectPackage/N11TestClass.class
